@@ -1,0 +1,138 @@
+## LE NGUYEN 
+**NHAT THO**
+**FRONT-END, WEB DEVELOPER**
+
+thole.vercel.app Portfolio
+
+Binh Thanh Dist, HCMC Address
++84 931 091 755 Phone
+thole.sain.work@gmail.com Email
+linkedin.com/in/cr oissain  LinkedIn (SAIN)
+
+**SUMMARY**
+
+I'm a Front-End Developer with 2 years of experience, complemented by nearly 1 year of Back-end development. I have a strong sense of UI/UX design and enjoy creating visually appealing digital experiences. I'm always open to learning new technologies to expand my skills and deliver better solutions. My passion lies in bridging design and functionality to create websites and applications that meet user needs effectively.
+
+**TECHNICAL SKILLS**
+
+**Programming Languages:** JavaScript & TypeScript, HTML, CSS, C#
+**Frameworks/Platforms:** 
+React, Next.js, React Native, Node.js, Webpack/Babel
+Bootstrap, Tailwind CSS, Shadcn, Ant Design, Material UI 
+Three.js (React Three Fiber), Framer Motion, GSAP
+Web API (RESTful API), Web Socket, Entity Framework, .NET MVC
+Redux, Zustand
+
+**Tools:** ESLint, Husky, Prettier
+
+**Design and Prototyping Tools:** Photoshop, Illustrator, Figma
+**Database Management Systems:** PostgreSQL, MS SQL Server, MongoDB
+**Version Control Platforms:** GitHub, Gitlab, Bitbucket
+**Testing Frameworks:** Jest, Cypress
+
+**Foreign Languages:** English - TOEIC 900
+
+**Projects:** Mobile AI Tutor App, AI-powered image and content generation platform, custom CMS solutions, and websites for advertisement systems and HR management.
+
+**Technologies Used:** TypeScript, React SPA, Redux, React Native, Figma, Storybook, Illustrator, Jira.
+
+**Responsibilities**
+
+* Collaborated with BAs and stakeholders to implement event tracking in Mixpanel and set up deep linking with AppsFlyer
+* Built custom CMS solutions for efficient content management and streamlined updates
+
+
+
+
+Here is the translated text:
+
+**Developed responsive and functional front-end components based on UI/UX designs for web and mobile platforms.** 
+
+**Integrated APIs, including features like FaceID, authentication, report exports, etc.**
+
+**Participated in Agile development processes, ensuring efficient collaboration and timely delivery of features.**
+
+
+**DR Digital (formerly 3FORCOM)**
+**Junior Front-end Developer**
+**05/2024 - Present**
+
+
+
+ **PROFESSIONAL EXPERIENCES**
+
+**EDUCATION**
+VNUH CM - University of Science 
+08/2019 - 10/2023
+Bachelor of Software Engineering
+Degree Grade: Good - 8.23/10 (3.29/4 GPA)
+
+**Projects:** Creative Web3 Landing Pages, Data Visualization Website, NFT Art pieces.
+**Technologies:** Next.js, Three.js, GSAP, TailwindCSS, p5.js, wagmi, ethers.js, highcharts, Figma, Photoshop, Illustrator, Figma.
+
+**Responsibilities**
+
+* Collaborated with designers to build engaging, animated landing pages with 2D and 3D graphic elements
+* Developed user interfaces and functionality for Web3 applications, including interactive charts, marketplaces, and decentralized platforms
+* Created generative art using p5.js, producing NFT pieces with algorithmic designs.
+
+
+
+**AUTONOMOUS INC.**
+**Fresher Creative Front-end Developer | Art Coder**
+**01/2023 - 05/2024**
+
+**Description:** Freelance Creative agency landing page
+**Technologies:** Next.js, GSAP, TailwindCSS, Lottie Animation, Sanity, Figma.
+
+**Responsibilities**
+
+* Build components and layouts to match the design with pixel-perfect precision
+* Brainstorm and implement animations and transitions to enhance the UX.
+
+
+
+**DIRTY PAWS LANDING PAGE**
+ **A brand ideation & crafting agency**
+08/2023 - 12/2023
+
+**Description:** A digital platform for purchasing, selling, and lending NFT-based books.
+Enabled users to interact with smart contracts for secure transactions.
+**Technologies:** Next.js, Framer Motion, Material UI, Solidity, ethers.js, MongoDB
+**Responsibilities**
+
+
+Let me know if you need anything else translated!
+## UI/UX Integrated Blockchain Features
+
+* Integrated blockchain features using ethers.js to handle NFT-based functionalities.
+* Managed database operations and ensured seamless communication between front-end and back-end services.
+
+**NFT Bookstore** 
+
+* **University Case Study:** 11/2022 - 07/2023
+    * The selected project was showcased at the Science-Business Forum and Innovation Exhibition of HCMUS.
+* **NFT Bookstore:** 12/2023
+
+**COURSES**
+
+* **Coursera - UX Design Course:** Start the UX Design Process: Empathize, Define, and Ideate 08/2021
+* **Coursera - UX Design Course:** Foundations of UX Design 04/2020
+
+
+## AWARDS & CERTIFICATIONS
+
+**Coding Challenges:** Actively participating in coding platforms like LeetCode and HackerRank to strengthen problem-solving and algorithmic skills.
+
+**Digital Drawing, Designing and Modeling:** I'm also self-teaching digital drawing, design, and 3D modeling using Blender; I posted my work on Behance. 
+
+**Generative Art:** I'm passionate about creating algorithmic artworks (generative arts). They can be found on my p5.js sketches.
+
+
+## ACTIVITIES & PASTIMES
+
+* **University's Club - Design ITU:** Organizing Committee of OUT SPACE 4 11/2020 - 12/2020
+
+
+
+

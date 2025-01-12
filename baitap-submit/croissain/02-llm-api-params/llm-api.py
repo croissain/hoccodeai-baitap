@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 client = OpenAI(
-    base_url="http://192.168.1.45:1234/v1",
+    base_url="http://172.16.0.2:1234/v1",
     api_key='your-api-key'
 )
 
@@ -21,7 +21,8 @@ def chat_with_bot():
         response = client.chat.completions.create(
             messages=list_messages,
             model="llama-3.2-1b-instruct",
-            stream=True  # Enable streaming
+            stream=True,  # Enable streaming
+            temperature=0,
         )
 
         print("Bot: ", end="", flush=True)
